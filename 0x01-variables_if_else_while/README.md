@@ -1,1 +1,1 @@
-This Directory contains codes o conditional statements
+This Directory contains codes on conditional statements in C programming.
