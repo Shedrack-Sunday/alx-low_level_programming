@@ -1,15 +1,19 @@
 #include "main.h"
+
 /**
- * _putchar - writes the character c to stdout
- * main - Entry point
- *
- * Return: On success 0(sucess)
- * set appropriately.
- */
+ *  * main - Entry point
+ *   * Return:0
+ *    */
+
 int main(void)
 {
-
-     _putchar('c');
-
-     return (0);
+	char c[9] = "_putchar";
+	int i = 0;
+	while (i < 9)
+	{
+		_putchar(c[i]);
+		i++;
+	}
+	_putchar('\n');
+	return (0);
 }
