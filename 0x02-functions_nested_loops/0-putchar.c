@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Return :0 (sucess)
- *
+ * _putchar - writes the character c to stdout
  */
 
 int main(void)
@@ -12,7 +12,7 @@ int main(void)
 
 	int i = 0;
 
-	while (i <8)
+	while (i < 8)
 	{
 		_putchar(c[i]);
 		i++;
