@@ -2,8 +2,9 @@
 
 /**
  * main - Entry point
- * Return :0 (sucess)
+ * Return: 0 (success)
  * _putchar - writes the character c to stdout
+ * 0-putchar.c - returns _putchar
  */
 
 int main(void)
