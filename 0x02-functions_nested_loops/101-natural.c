@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	int i = 0;102-fibonacci.c
+	int i = 0;
 	int m3 = 3;
 	int m5 = 5;
 	int sum = 0;
