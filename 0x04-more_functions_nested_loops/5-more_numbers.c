@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * more_numbers - Print 10x the numbers 0-14
