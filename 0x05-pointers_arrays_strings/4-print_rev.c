@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *print_rev-prints a string to stdout in reverse
  *@s:string to be printed in reverse,
