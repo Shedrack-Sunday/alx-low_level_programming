@@ -1,10 +1,2 @@
-##0x18. C - Dynamic libraries
-
-##Learning Objectives
-At the end of this project, the  expectation is  to be able to explain to anyone, without the help of Google:
-
-##General
-What is a dynamic library, how does it work, how to create one, and how to use it
-What is the environment variable $LD_LIBRARY_PATH and how to use it
-What are the differences between static and shared libraries
-Basic usage nm, ldd, ldconfig
+# 0x18-dynamic_libraries
+In this project, I learnt how to create dynamic libraries from modules and use them
